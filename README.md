@@ -1,8 +1,8 @@
 # VELMAR BAY — Open-World Crime Game
 
-[![make.fun](https://make.fun/api/competitions/gta6-01/badge.svg)](https://make.fun/c/gta6-01)
-[![make.fun dev](https://make.fun/api/competitions/gta6-01/dev-badge.svg)](https://make.fun/c/gta6-01)
-[![make.fun entries](https://make.fun/api/competitions/gta6-01/entries-badge.svg)](https://make.fun/c/gta6-01)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/lusiana27/gta6-01-round9/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/lusiana27/gta6-01-round9/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 An original open-world crime game for the make.fun **gta6-01** bounty ($1,666, top 100 share the prize).
 Built from scratch in plain JavaScript + Canvas — no libraries, no network requests, fully offline.
